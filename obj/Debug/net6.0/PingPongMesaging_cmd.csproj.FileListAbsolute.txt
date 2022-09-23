@@ -1,0 +1,17 @@
+D:\learn\dai\PingPongMesaging_cmd\obj\Debug\net6.0\PingPongMesaging_cmd.csproj.AssemblyReference.cache
+D:\learn\dai\PingPongMesaging_cmd\obj\Debug\net6.0\PingPongMesaging_cmd.GeneratedMSBuildEditorConfig.editorconfig
+D:\learn\dai\PingPongMesaging_cmd\obj\Debug\net6.0\PingPongMesaging_cmd.AssemblyInfoInputs.cache
+D:\learn\dai\PingPongMesaging_cmd\obj\Debug\net6.0\PingPongMesaging_cmd.AssemblyInfo.cs
+D:\learn\dai\PingPongMesaging_cmd\obj\Debug\net6.0\PingPongMesaging_cmd.csproj.CoreCompileInputs.cache
+D:\learn\dai\PingPongMesaging_cmd\bin\Debug\net6.0\PingPongMesaging_cmd.exe
+D:\learn\dai\PingPongMesaging_cmd\bin\Debug\net6.0\PingPongMesaging_cmd.deps.json
+D:\learn\dai\PingPongMesaging_cmd\bin\Debug\net6.0\PingPongMesaging_cmd.runtimeconfig.json
+D:\learn\dai\PingPongMesaging_cmd\bin\Debug\net6.0\PingPongMesaging_cmd.dll
+D:\learn\dai\PingPongMesaging_cmd\bin\Debug\net6.0\PingPongMesaging_cmd.pdb
+D:\learn\dai\PingPongMesaging_cmd\bin\Debug\net6.0\RabbitMQ.Client.dll
+D:\learn\dai\PingPongMesaging_cmd\obj\Debug\net6.0\PingPongMesaging_cmd.csproj.CopyComplete
+D:\learn\dai\PingPongMesaging_cmd\obj\Debug\net6.0\PingPongMesaging_cmd.dll
+D:\learn\dai\PingPongMesaging_cmd\obj\Debug\net6.0\refint\PingPongMesaging_cmd.dll
+D:\learn\dai\PingPongMesaging_cmd\obj\Debug\net6.0\PingPongMesaging_cmd.pdb
+D:\learn\dai\PingPongMesaging_cmd\obj\Debug\net6.0\PingPongMesaging_cmd.genruntimeconfig.cache
+D:\learn\dai\PingPongMesaging_cmd\obj\Debug\net6.0\ref\PingPongMesaging_cmd.dll
